@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samazzz
+- 👋 Hi, This is @samazzz
 - 👀 A Developer
 
 <!---
